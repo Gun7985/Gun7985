@@ -4,8 +4,8 @@
 성별 : 남성 </br>
 군필여부 : 현역만기전역 </br>
 취미 : 독서, 게임, 악기연주 </br>
-Email : [Email](rladndn1@naver.com) </br>
-GitHub : [github](github.com/Gun7985) </p>
+Email : rladndn1@naver.com </br>
+GitHub : https://github.com/Gun7985 </p>
 
 <h3>제 기술 스택은 다음과 같습니다.</h3>
 <p>
