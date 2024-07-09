@@ -9,7 +9,7 @@ GitHub : https://github.com/Gun7985 </p>
 
 <h3>제 기술 스택은 다음과 같습니다.</h3>
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" />
+  
 <img alt="Github" src="https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github-actions&logoColor=white" />
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
