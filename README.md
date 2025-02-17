@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>데이터 엔지니어를 꿈꾸는 김건우 입니다! </h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>웹 개발자를 꿈꾸는 김건우 입니다! </h1>
 <h3>제 소개를 하자면 다음과 같습니다. </h3>
 나이 : 27 </br>
 성별 : 남성 </br>
